@@ -1,0 +1,19 @@
+body{
+    background-color:lightblue;
+    color: black;
+}
+
+.heading{
+    width: 60%;
+    font-size: 40px;
+}
+
+.family_member{
+    color: black;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
